@@ -1,6 +1,6 @@
 # DSP_Bucaramanga
 This is a summary of the Bucaramanga Workshop.
-The following topics are covered
+The following topics are covered in the sources folder.
 
 <table>
     <thead>
