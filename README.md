@@ -37,19 +37,16 @@ The following topics are covered
             <td>SAFT & CTC</td>
         </tr>
         <tr>
-            <td rowspan=4>3</td>
-            <td rowspan=4>Imaging</td>
+            <td rowspan=3>3</td>
+            <td rowspan=3>Imaging</td>
             <td>Imaging (HS)</td>
         </tr>
         <tr>
-            <td>FWI Theory: Time domain (TDI)</td>
+            <td>FWI: Time domain (TDI)</td>
         </tr>
         <tr>
-            <td>frequency domain (CSI)</td>
+            <td>FWI: Frequency domain (CSI)</td>
         </tr>
-        <tr>
-            <td>Time domain (FWI)</td>
-        </tr> 
         <tr>
             <td rowspan=2>4</td>
             <td rowspan=2>AI</td>
