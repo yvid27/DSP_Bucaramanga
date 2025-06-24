@@ -1,4 +1,4 @@
-# DSP_Bucaramanga
+# DSP_wave acoustic imaging
 This repository contains a structured summary of the Acoustic workshop 2025, divided into two parts. Additionally, it includes all original source materials in the `sources` folder.
 
 The following topics are covered in the sources folder.
