@@ -1,5 +1,6 @@
 # DSP_Bucaramanga
-This is a summary of the Bucaramanga Workshop.
+This repository contains a structured summary of the Acoustic workshop 2025, divided into two parts. Additionally, it includes all original source materials in the `sources` folder.
+
 The following topics are covered in the sources folder.
 
 <table>
@@ -59,3 +60,8 @@ The following topics are covered in the sources folder.
 </table>
 
 
+## How to Use This Repository
+
+1. Start by reading the summaries in `part1/` and `part2/` for a quick overview.
+2. Use the `topics table` to locate specific topics in the original sources.
+3. Explore the `sources/` folder if you want to dive deeper into the full materials.
